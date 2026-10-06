@@ -1,0 +1,1001 @@
+sender,subject,body,urls,attachment,label
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+events@example.org,College Event Information,The annual technology event will be held this Saturday. Please check the event schedule for details.,https://example.org/events,,0
+account@verify-alert.invalid.test,Final Warning: Account Verification,Your account may be blocked. Verify your login credentials immediately.,http://198.51.100.50/verify,,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+faculty@example.org,Project Meeting,The project meeting is scheduled for Monday at 10 AM. Please bring your project notes.,,,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+payment@billing-alert.invalid.test,Payment Failed - Action Required,Your payment has failed. Please confirm your payment information to avoid suspension.,http://198.51.100.60/payment,,1
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+placement@example.org,Placement Training Session,Students registered for placement training should attend the scheduled session.,https://example.org/placement,,0
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+notification@security.invalid.test,Important Security Verification,We detected unusual activity. Please verify your account credentials using the link below.,http://198.51.100.40/login,security_update.exe,1
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+support@account-check.invalid.test,Your Account Will Be Suspended,Your account will be suspended unless you confirm your account information immediately.,http://198.51.100.30/confirm,,1
+hr@example.org,Training Schedule,Please find the updated training schedule for this month.,,training_schedule.pdf,0
+training@example.org,Cybersecurity Workshop Reminder,"Hello students, this is a reminder about the cybersecurity workshop scheduled for Friday. Please attend the session.",,,0
+security-alert@account-check.invalid.test,URGENT: Verify Your Account Immediately,Your account requires immediate verification. Please verify your account information immediately.,http://198.51.100.10/verify-account,,1
+finance@example.org,Fee Receipt Available,Your fee receipt is now available in the student portal.,https://example.org/student-portal,fee_receipt.pdf,0
+library@example.org,Library Book Reminder,This is a reminder that your borrowed library book is due next week.,,,0
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
+support@login-check.invalid.test,Verify Your Login,We detected suspicious activity on your account. Please verify your username and password.,http://198.51.100.70/login,login_update.exe,1
+admin@example.org,Campus Maintenance Notice,Maintenance work will be carried out on campus this weekend.,,,0
+billing@payment-warning.invalid.test,Payment Required Immediately,Your payment could not be processed. Verify your payment information immediately.,http://198.51.100.20/payment,,1
+security@account-warning.invalid.test,Account Security Alert,Your account has been flagged for unusual activity. Confirm your credentials to prevent account closure.,http://198.51.100.80/confirm-account,,1
